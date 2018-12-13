@@ -144,7 +144,8 @@ include:
 - _stylesheets
 - _javascript
 
-
+plugins:
+- jekyll-feed
 
 # Custom site configuration
 lang: en
