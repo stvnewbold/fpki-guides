@@ -777,8 +777,8 @@
   sia_uri:
   ocsp_uri:
   
-- change_type: Intent to Decommission Multiple CAs
-  notice_date: March 25, 2019
+- notice_date: March 25, 2019
+  change_type: Intent to Decommission Multiple CAs
   start_datetime:
   end_datetime:
   system: Symantec Class 3 SSP Intermediate CA - G3 (managed by DigiCert)
