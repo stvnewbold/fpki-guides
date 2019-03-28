@@ -1,7 +1,7 @@
 ---
 layout: default
-navtitle: Removal of CAs from Federal PKI
-title: Removal of CAs from Federal PKI
+navtitle: DigiCert CA Decommissioning 
+title: DigiCert CA Decommissioning 
 pubDate: March 28, 2019
 collection: announcements
 permalink: announcements/digicert-ca-decommissioning/
