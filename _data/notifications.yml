@@ -789,7 +789,7 @@
   ca_certificate_subject: Multiple CA certificates will be revoked before decommissioning. Comma-separated list of CA Subject Names planned for revocation/decommissioning - CSC CA - 2, CSRA FBCA C4 Device CA, CSRA FBCA C4 CA, CSRA FBCA C3 Device CA, CSRA FBCA C3 CA, SureID Inc. CA2, SureID Inc. Device CA1, Eid Passport LRA Content Signer CA 3, and Eid Passport LRA Device 2 CA
   cdp_uri: http://ssp-crl.symauth.com/STNSSP/Class3SSPCAG3.crl
   aia_uri: http://ssp-aia.symauth.com/STNSSP/Certs_issued_to_Class3SSPCA-G3.p7c
-  sia_uri:
+  sia_uri: http://ssp-sia.symauth.com/STNSSP/Certs_Issued_by_Class3SSPCA-G3.p7c
   ocsp_uri: http://ssp-ocsp.symauth.com
   
 #- notice_date: 
